@@ -1,0 +1,6 @@
+This is the basic Program in java.
+This introduce The basic output Operation and using it we can print anything in output consol.
+The Basic output operation is -- System.out.print("");
+                              >>  Line -3 Shows the print command that print the data in only single line.
+The Basic output operation is -- System.out.println("");
+                              >>  Line -3 Shows the print command that print the data in multiple order.
